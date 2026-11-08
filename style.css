@@ -875,7 +875,22 @@ section:not(.hero) {
 /* =========================================================
    GIFT GUIDE
 ========================================================= */
-
+ .gift-section{
+position: relative;
+    min-height: 800px;
+    background:
+        linear-gradient(
+            rgba(0,0,0,0.72),
+            rgba(0,0,0,0.72)
+        ),
+        url("ensley3.jpg") center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    overflow: hidden;
+}
 .gift-section {
   content: "";
     position: absolute;
