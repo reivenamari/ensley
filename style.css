@@ -1087,7 +1087,7 @@ section:not(.hero) {
             rgba(0,0,0,0.72),
             rgba(0,0,0,0.72)
         ),
-        url("images/ensley3.jpg") center/cover no-repeat;
+        url("ensley3.jpg") center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
